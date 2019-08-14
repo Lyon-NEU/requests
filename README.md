@@ -1,6 +1,6 @@
 Requests: HTTP for Humans™
 ==========================
-
+[![Build Status](https://travis-ci.org/Lyon-NEU/requests.svg?branch=master)](https://travis-ci.org/Lyon-NEU/requests)
 [![image](https://img.shields.io/pypi/v/requests.svg)](https://pypi.org/project/requests/)
 [![image](https://img.shields.io/pypi/l/requests.svg)](https://pypi.org/project/requests/)
 [![image](https://img.shields.io/pypi/pyversions/requests.svg)](https://pypi.org/project/requests/)
