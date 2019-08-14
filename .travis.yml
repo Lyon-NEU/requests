@@ -33,3 +33,5 @@ jobs:
     - stage: coverage
       python: '3.6'
       script: codecov
+after_success:
+  - codecov #运行codecov
